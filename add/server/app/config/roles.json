@@ -1,0 +1,18 @@
+{
+  "admin": [
+     "admin_dashboard",
+    "create_record",
+    "read_record",
+    "update_record",
+    "delete_record"
+  ],
+  "manager": [
+    "create_record",
+    "read_record",
+    "update_record"
+  ],
+  "employee": [
+    "create_record",
+    "read_record"
+  ]
+}
